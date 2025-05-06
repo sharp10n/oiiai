@@ -1,0 +1,7 @@
+{
+    "url": "https://oiiai.ct.ws",                        // required
+    "name": "OIIAI game",                      // required
+    "iconUrl": "https://oiiai.ct.ws/main_files/cat.png",               // required
+    "termsOfUseUrl": "",     // optional
+    "privacyPolicyUrl": "" // optional
+}
